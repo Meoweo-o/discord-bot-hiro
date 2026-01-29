@@ -1,1 +1,1 @@
-worker: python mon_bot.py
+worker: python code-hiro-bot.py
