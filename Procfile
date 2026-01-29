@@ -1,1 +1,1 @@
-worker: python discord-bot-hiro.py
+worker: python codehiro.py
