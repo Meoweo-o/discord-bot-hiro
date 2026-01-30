@@ -25,7 +25,7 @@ PROMPTS = {
     "I love you Eden": ["I love myself too", "Who ?", "..me too.."],
     "I hate you Eden": ["I hate you too", "cool", "lol"],
     "Have you ate Eden ?": ["Yes", "Did you ? Nvm I don't care"],
-    "Let's having fun Eden": ["|| Don't say it twice||", "|| Get on your knees, open your mouth and close your eyes||", "|| No||", "|| Ask someone else||", "|| Let's make it in Hiro room||"],
+    "Let's having fun Eden": ["||Don't say it twice||", "||Get on your knees, open your mouth and close your eyes||", "||No||", "||Ask someone else||", "||Let's make it in Hiro room||"],
     "I prefer your mom Eden": ["i know right", "I do too"],
     "I prefer your brother Eden": ["This man have too much fan", "Liar"],
 }
